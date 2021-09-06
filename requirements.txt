@@ -1,3 +1,4 @@
+opencv-python
 fer
 matplotlib
 pandas
