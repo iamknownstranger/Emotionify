@@ -1,0 +1,4 @@
+fer
+matplotlib
+pandas
+streamlit
