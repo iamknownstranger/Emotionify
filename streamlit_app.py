@@ -35,7 +35,7 @@ try:
             # Plot emotions
             st.write(df.plot())
             # plt.show()
-catch Exception:
+except Exception:
     st.write("Whoops! Something went wrong")
         
 st.write("Stay Tuned! **Moodify** is in progress 💕")
