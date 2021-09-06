@@ -34,3 +34,5 @@ if uploaded_file is not None:
         # Plot emotions
         st.write(df.plot())
         # plt.show()
+        
+st.write("Stay Tuned! **Moodify** is in progress 💕")
