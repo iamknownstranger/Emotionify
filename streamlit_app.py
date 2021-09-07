@@ -45,7 +45,7 @@ hide_streamlit_style = """
             footer {visibility: hidden;}
 
             footer:after {
-                content:"Built with 💓 by Chandra Sekhar Mullu                                        Stay Tuned! **Moodify** is in progress ✌"; 
+                content:"Built with 💓 by Chandra Sekhar Mullu | Stay Tuned! **Moodify** is in progress ✌"; 
                 visibility: visible;
                 display: block;
                 position: relative;
