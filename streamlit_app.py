@@ -36,7 +36,7 @@ try:
             st.write(df.plot())
             # plt.show()
 except Exception:
-    st.write("Whoops! Something went wrong")
+    st.warning("Whoops! Something went wrong")
 
 
 hide_streamlit_style = """
